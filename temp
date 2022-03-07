@@ -1,0 +1,597 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="utf-8">
+        <title>RichArabs NFT</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="">
+        <meta name="author" content="">
+
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700' rel='stylesheet' type='text/css'> 
+        <link href="css/bootstrap.css" rel="stylesheet" type="text/css" />
+        <link href="css/font-awesome.css" media="all" rel="stylesheet" type="text/css" />
+        <link rel="stylesheet" type="text/css" href="css/jquery.fancybox.css" media="all" />
+        <link rel="stylesheet" type="text/css" href="css/jquery.fancybox-thumbs0ff5.css?v=1.0.2" />
+        <link href="css/animate.css" rel="stylesheet" type="text/css" />
+        <link href="css/isotope.css" rel="stylesheet" type="text/css" />
+        <link href="css/style.css" rel="stylesheet" type="text/css" />
+        <link href="css/style-responsive.css" rel="stylesheet" type="text/css" />
+        <!-- Le fav and touch icons -->
+        <link rel="apple-touch-icon-precomposed" sizes="144x144" href="ico/apple-touch-icon-144-precomposed.html">
+        <link rel="apple-touch-icon-precomposed" sizes="114x114" href="ico/apple-touch-icon-114-precomposed.html">
+        <link rel="apple-touch-icon-precomposed" sizes="72x72" href="ico/apple-touch-icon-72-precomposed.html">
+        <link rel="apple-touch-icon-precomposed" href="ico/apple-touch-icon-57-precomposed.html">
+        <link rel="shortcut icon" href="ico/favicon.html">
+
+
+    </head>
+
+    <body>
+<!-- This section is for Splash Screen -->
+
+        <!--################ NAVIGATION START ################-->
+
+        <div class="navbar-wrapper" >
+            <div class="navbar navbar-fixed-top" id="navigation">
+                <div class="navbar-inner">
+                    <div class="container">
+                        <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        <!-- <h2>RichArabsNFT</h2> -->
+                        <a class="brand" href="#">  <img src="images/logo.png" width="150" id="logokhan"></a>
+                        <div class="nav-collapse collapse">
+                            <ul class="nav pull-right">
+
+                                <li class="active">
+                                    <a href="#top">HOME</a>
+
+                                </li>
+                                <li class="">
+                                    <a href="#features">WHO ARE RICH ARABS</a>
+                                </li>
+                                <li class="">
+                                    <a href="#support">BENEFITS & UTILITIES</a>
+                                </li>
+                                <li class="">
+                                    <a href="#testimonials">ROADMAP</a>
+                                </li>
+
+                                <li class="">
+                                    <a href="#contact">TEAM</a>
+                                </li>
+
+                                <li class="dropdown">
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">JOIN US <b class="caret"></b></a>
+                                    <div class="dropdown-menu" style="padding: 15px;">
+                                        <input class="btn span3"  type="submit" name="commit" value="Telegram" />
+                                        <input class="btn span3"  type="submit" name="commit" value="Discord" />
+                                        <input class="btn span3"  type="submit" name="commit" value="Twitter" />
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!--################ WRAP START ################-->
+
+        <div id="wrap">
+
+            <!--################ HEADER START ################-->
+
+            <header id="top" data-stellar-background-ratio="0">
+                <div class="container home">
+                    <div class="flexslider home">
+                        <ul class="slides">
+                            <!-- <li>
+                                <div class="span7 animated fadeInLeftBig">
+                                    <img src="images/responsive.png">
+                                </div>
+                                <div class="span4 margintop10p animated fadeInDownBig">
+
+                                    <h1><i class="icon-tablet"></i><i class="icon-mobile-phone"></i><i class="icon-desktop"></i><br />full responsive</h1>
+                                </div>
+                            </li> -->
+                            <!-- <li class="margin5">
+                                <div class="span6 animated fadeInLeftBig" id="main-media">
+                                    <iframe src="http://player.vimeo.com/video/56072786" width="580" height="240" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+                                </div>
+                                <div class="span5">
+                                    <h1>a complete parallex template for your needs</h1>
+
+                                </div>
+
+                            </li> -->
+                            <!-- <li class="margintop10p"><h1><i class="icon-tablet"></i><i class="icon-mobile-phone"></i><i class="icon-desktop"></i><br />and yes its full responsive </h1></li> -->
+                            <li class="margintop10p"><img class="landing_title animated animated fadeInDownBig" src="images/title.png"></li>
+                        </ul>
+                    </div>
+
+                    <div class="social-header hidden-phone">
+
+                        <a href="#" class="social-network sn2 behance"></a>
+                        <a href="#" class="social-network sn2 facebook"></a>
+                        <a href="#" class="social-network sn2 pinterest"></a>
+                        <a href="#" class="social-network sn2 flickr"></a>
+                        <a href="#" class="social-network sn2 dribbble"></a>
+                        <a href="#" class="social-network sn2 lastfm"></a>
+                        <a href="#" class="social-network sn2 forrst"></a>
+                        <a href="#" class="social-network sn2 xing"></a>   
+
+
+                    </div>
+
+                </div>
+
+
+
+
+                <div id="home-arrow" class="hidden-phone">
+
+                    <a href="#features"  ><i class="icon-double-angle-down icon-3x" id="iconHome"></i></a>
+
+                </div>
+            </header>
+
+            <!--################ HEADER END ################-->
+
+            <!--################ MAIN CONTAINER START ################-->
+
+
+
+            <!--################ FEATURES SECTION START ################-->
+            <section  id="features" >
+
+                <div id="features-banner" data-stellar-background-ratio="0" >
+
+                    <h1>WHO ARE RICH ARABS?</h1>
+                    <p class="sub-heading-support">YOU CAN BE RICH WITH NFT</p>
+                </div>
+
+                <div class="container">
+
+                    <div class="row margintop20">
+
+                        <div class="span4">
+                            <h2><i class="icon-briefcase"></i> 1st Feature</h2>
+                            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam cursus. Morbi ut mi. Nullam enim leo, egestas id, condimentum at, laoreet mattis, massa. Sed eleifend nonummy diam. Praesent mauris ante, elementum et, bibendum at, posuere sit amet, nibh. </p>
+                        </div><!-- /span4 -->
+                        <div class="span4">
+                            <h2><i class="icon-bullhorn"></i> 2nd Feature</h2>
+                            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam cursus. Morbi ut mi. Nullam enim leo, egestas id, condimentum at, laoreet mattis, massa. Sed eleifend nonummy diam. Praesent mauris ante, elementum et, bibendum at, posuere sit amet, nibh. </p>
+
+                        </div><!-- /span4 -->
+                        <div class="span4">
+                            <h2><i class="icon-bar-chart"></i> 3rd Feature</h2>
+                            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam cursus. Morbi ut mi. Nullam enim leo, egestas id, condimentum at, laoreet mattis, massa. Sed eleifend nonummy diam. Praesent mauris ante, elementum et, bibendum at, posuere sit amet, nibh.</p>
+
+                        </div><!-- /span4 -->
+                    </div>
+                    <section class="portfolio home-portfolio">
+                        <div class="container" id="portfolio">
+                            <div class="row">
+                                <div class="span12 center">
+                                    <h1 class="big-heading">RichArabs NFT</h1>
+                                    <h4 class="sub-heading">Mint to be Rich</h4>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="span12">
+                                    <div id="filters_container">
+                                        <ul id="filters">
+                                            <li><a href="#" data-filter="*" class="active">All</a></li>
+                                            <li class="separator">/</li>
+                                            <li><a href="#" data-filter=".video">Video</a></li>
+                                            <li class="separator">/</li>
+                                            <li><a href="#" data-filter=".art">Art</a></li>
+                                            <li class="separator">/</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>        
+                            <div class="row" id="portfolio-container">
+                                <div class="span3 project art">
+                                    <img src="images/project1.jpg" alt="" class="project-img">
+                                    <span class="overlay"></span>
+                                    <div class="cnt">
+                                        <h5>RichArabs</h5>
+                                        <a href="images/project1.jpg" class="fancybox-media btn btn-normal" data-title-id="title-01"  rel="portfolio">View details</a>
+                                    </div>
+                                    <div id="title-01" class="info hidden">
+                                        <h2>RichArabs</h2>
+                                        <div class="fancybody">Maecenas faucibus mollis interdum. Aenean eu leo quam. Pellentesque ornare sem <a href="#">lacinia quam</a> venenatis vestibulum. Maecenas sed diam eget risus varius.</div>
+                                    </div>
+                                </div>
+                                <div class="span3 project web">
+                                    <img src="images/landscape-heart.jpg" alt="" class="project-img">
+                                    <span class="overlay"></span>
+                                    <div class="cnt">
+                                        <h5>RichArabs</h5>
+
+                                        <a href="#" class=" btn btn-normal" >View details</a>
+                                    </div>
+                                </div>
+                                <div class="span3 project video">
+
+                                    <img src="images/project1.jpg" alt="" class="project-img">
+                                    <span class="overlay"></span>
+                                     <div class="cnt">
+                                        <h5>RichArabs</h5>
+                                        <a href="http://vimeo.com/24030911" class="fancybox-media btn btn-normal" data-title-id="title-03"  rel="portfolio">View details</a>
+                                    </div>
+                                    <div id="title-03" class="info hidden">
+                                        <h2>Image Detials</h2>
+                                        <div class="fancybody">Maecenas faucibus mollis interdum. Aenean eu leo quam. Pellentesque ornare sem <a href="#">lacinia quam</a> venenatis vestibulum. Maecenas sed diam eget risus varius.</div>
+                                    </div>
+                                </div>
+                                <div class="span3 project web print">
+
+                                    <img src="images/landscape-heart.jpg" alt="" class="project-img">
+                                    <span class="overlay"></span>
+                                    <div class="cnt">
+                                        <h5>RichArabs</h5>
+
+                                        <a href="#" class="btn btn-normal">View details</a>
+                                    </div>
+                                </div>
+                                <div class="span3 project art print">
+
+                                    <img src="images/landscape-heart.jpg" alt="" class="project-img">
+                                    <span class="overlay"></span>
+                                    <div class="cnt">
+                                        <h5>RichArabs</h5>
+                                        <a href="#" class="btn btn-normal">View details</a>
+                                    </div>
+                                </div>
+                                <div class="span3 project art web">
+
+                                    <img src="images/landscape-heart.jpg" alt="" class="project-img">
+                                    <span class="overlay"></span>
+                                    <div class="cnt">
+                                        <h5>RichArabs</h5>
+                                        <a href="#" class="btn btn-normal">View details</a>
+                                    </div>
+                                </div>
+                                <div class="span3 project print web">
+                                    <img src="images/project1.jpg" alt="" class="project-img">
+                                    <span class="overlay"></span>
+                                    <div class="cnt">
+                                        <h5>RichArabs</h5>
+                                        <a href="#" class="btn btn-normal">View details</a>
+                                    </div>
+                                </div>
+                                <div class="span3 project  web">
+                                    <img src="images/project1.jpg" alt="" class="project-img">
+                                    <span class="overlay"></span>
+                                    <div class="cnt">
+                                        <h5>Project</h5>
+                                        <a href="#" class="btn btn-normal">View details</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </div>
+            </section>
+            <!--################ FEATURES SECTION END ################-->
+            <!--################ SUPPORT SECTION START ################-->
+            <section id="support" class="paddingbottom40">
+                <div id="support-banner" data-stellar-background-ratio="0.5" >
+
+                    <div id="carousel_fade_1" class="carousel slide carousel-fade">
+
+                        <div class="carousel-inner">
+                            <div class="item active">
+                                <h1><i class="icon-comments"></i> BENEFITS & UTILITIES</h1>
+                                <p class="sub-heading-support">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam cursus. </p>
+                            </div>
+                        </div>
+                        <button class="carousel-control left car-button" href="#carousel_fade_1" data-slide="prev"><i class="icon-chevron-left"></i></button>
+                        <button class="carousel-control right car-button" href="#carousel_fade_1" data-slide="next"><i class="icon-chevron-right"></i></button>
+
+                    </div>
+                </div>
+                <div class="container">
+
+                    <div class="row center">
+
+
+                        <div class="span4 margintop20">
+                            <div class="row left">
+                                <div class="span1">
+                                    <i class="icon-phone support-icon color1"></i>
+                                </div>
+                                <div class="span3">
+                                    <h2>24/7/365</h2>
+                                    <ul class="unstyled">
+                                        <li><i class="icon-ok"></i> Unlimited support in minutes</li>
+                                        <li><i class="icon-ok"></i> From your  dashboard</li>
+                                        <li><i class="icon-ok"></i> Ask us about anything</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="span4 margintop20">
+                            <div class="row left">
+                                <div class="span1"><i class="icon-comments support-icon color2"></i></div>
+                                <div class="span3">
+                                    <h2>Live Chat</h2>
+                                    <ul class="unstyled">
+                                        <li><i class="icon-ok"></i> Unlimited support in minutes</li>
+                                        <li><i class="icon-ok"></i> From your  dashboard</li>
+                                        <li><i class="icon-ok"></i> Ask us about anything</li>
+                                    </ul></div>
+                            </div>
+                        </div>
+                        <div class="span4 margintop20">
+                            <div class="row left">
+                                <div class="span1"><i class="icon-group support-icon color3"></i></div>
+                                <div class="span3">
+                                    <h2>Community</h2>
+                                    <ul class="unstyled">
+                                        <li><i class="icon-ok"></i> Unlimited support in minutes</li>
+                                        <li><i class="icon-ok"></i> From your  dashboard</li>
+                                        <li><i class="icon-ok"></i> Ask us about anything</li>
+                                    </ul></div>
+                            </div>
+                        </div>
+                        <div class="span4 margintop40">
+                            <div class="row left">
+                                <div class="span1"><i class="icon-facetime-video support-icon"></i></div>
+                                <div class="span3">
+                                    <h2>Tutorials</h2>
+                                    <ul class="unstyled">
+                                        <li><i class="icon-ok"></i> Unlimited support in minutes</li>
+                                        <li><i class="icon-ok"></i> From your  dashboard</li>
+                                        <li><i class="icon-ok"></i> Ask us about anything</li>
+                                    </ul></div>
+                            </div>
+                        </div>
+                        <div class="span4 margintop40">
+                            <div class="row left">
+                                <div class="span1"><i class="icon-book support-icon"></i></div>
+                                <div class="span3">
+                                    <h2>Manual</h2>
+                                    <ul class="unstyled">
+                                        <li><i class="icon-ok"></i> Unlimited support in minutes</li>
+                                        <li><i class="icon-ok"></i> From your  dashboard</li>
+                                        <li><i class="icon-ok"></i> Ask us about anything</li>
+                                    </ul></div>
+                            </div>
+                        </div>
+                        <div class="span4 margintop40">
+                            <div class="row left">
+                                <div class="span1"><i class="icon-file support-icon "></i></div>
+                                <div class="span3">
+                                    <h2>Docs</h2>
+                                    <ul class="unstyled">
+                                        <li><i class="icon-ok"></i> Unlimited support in minutes</li>
+                                        <li><i class="icon-ok"></i> From your  dashboard</li>
+                                        <li><i class="icon-ok"></i> Ask us about anything</li>
+                                    </ul></div>
+                            </div>
+                        </div>
+
+
+                    </div>
+
+
+
+                </div>
+
+            </section>
+            <!--################ TESTIMONIALS SECTION START ################-->
+            <section id="testimonials">
+                <div id="testimonials-background" data-stellar-background-ratio="0.5">
+                    <h1>ROADMAP</i></h1>
+                    <h2 class="sub-heading-support">What others say about us</h2>
+                </div>
+                <div class="container">
+                    <div class="row center margintop40">
+                        <div id="carousel_fade_2" class="span4 carousel slide carousel-fade">
+                            <div class="carousel-inner ">
+                                <div class="item  testimonial active">
+                                    <img src="images/avatar (1).jpg">
+                                    <h4>Fading Testimonials</h4>
+                                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam cursus. Morbi ut mi. Nullam enim leo, egestas id, condimentum at, laoreet mattis, massa. Sed eleifend nonummy diam.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="carousel_fade_2" class="span4 carousel slide carousel-fade">
+                            <div class="carousel-inner ">
+                                <div class="item  testimonial active">
+                                    <img src="images/avatar (2).jpg">
+                                    <h4>Fading Testimonials</h4>
+                                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam cursus. Morbi ut mi. Nullam enim leo, egestas id, condimentum at, laoreet mattis, massa. Sed eleifend nonummy diam.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="carousel_fade_2" class="span4 carousel slide carousel-fade">
+                            <div class="carousel-inner ">
+                                <div class="item  testimonial active">
+                                    <img src="images/avatar (3).jpg">
+                                    <h4>Fading Testimonials</h4>
+                                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam cursus. Morbi ut mi. Nullam enim leo, egestas id, condimentum at, laoreet mattis, massa. Sed eleifend nonummy diam.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="carousel_fade_2" class="span4 carousel slide carousel-fade">
+                            <div class="carousel-inner ">
+                                <div class="item  testimonial active">
+                                    <img src="images/avatar (4).jpg">
+                                    <h4>Fading Testimonials</h4>
+                                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam cursus. Morbi ut mi. Nullam enim leo, egestas id, condimentum at, laoreet mattis, massa. Sed eleifend nonummy diam.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="carousel_fade_2" class="span4 carousel slide carousel-fade">
+                            <div class="carousel-inner ">
+                                <div class="item  testimonial active">
+                                    <img src="images/avatar (5).jpg">
+                                    <h4>Fading Testimonials</h4>
+                                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam cursus. Morbi ut mi. Nullam enim leo, egestas id, condimentum at, laoreet mattis, massa. Sed eleifend nonummy diam.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="carousel_fade_2" class="span4 carousel slide carousel-fade">
+                            <div class="carousel-inner ">
+                                <div class="item  testimonial active">
+                                    <img src="images/avatar (6).jpg">
+                                    <h4>Fading Testimonials</h4>
+                                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam cursus. Morbi ut mi. Nullam enim leo, egestas id, condimentum at, laoreet mattis, massa. Sed eleifend nonummy diam.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            
+            <!--################ CONTACT SECTION START ################-->
+            <section id="contact" class="margintop40">
+                <div id="contact-background" data-stellar-background-ratio="0" >
+                    <h1>OUR TEAM</h1>
+                    <p class="sub-heading-contact">WHERE WE WORK </p>
+                </div>
+                <div class="container">
+                    <div class="row center margintop40">
+                        <div id="carousel_fade_2" class="span4 carousel slide carousel-fade">
+                            <div class="carousel-inner ">
+                                <div class="item  testimonial active">
+                                    <img src="images/avatar (1).jpg">
+                                    <h4>Fading Testimonials</h4>
+                                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam cursus. Morbi ut mi. Nullam enim leo, egestas id, condimentum at, laoreet mattis, massa. Sed eleifend nonummy diam.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="carousel_fade_2" class="span4 carousel slide carousel-fade">
+                            <div class="carousel-inner ">
+                                <div class="item  testimonial active">
+                                    <img src="images/avatar (2).jpg">
+                                    <h4>Fading Testimonials</h4>
+                                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam cursus. Morbi ut mi. Nullam enim leo, egestas id, condimentum at, laoreet mattis, massa. Sed eleifend nonummy diam.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="carousel_fade_2" class="span4 carousel slide carousel-fade">
+                            <div class="carousel-inner ">
+                                <div class="item  testimonial active">
+                                    <img src="images/avatar (3).jpg">
+                                    <h4>Fading Testimonials</h4>
+                                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam cursus. Morbi ut mi. Nullam enim leo, egestas id, condimentum at, laoreet mattis, massa. Sed eleifend nonummy diam.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="carousel_fade_2" class="span4 carousel slide carousel-fade">
+                            <div class="carousel-inner ">
+                                <div class="item  testimonial active">
+                                    <img src="images/avatar (4).jpg">
+                                    <h4>Fading Testimonials</h4>
+                                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam cursus. Morbi ut mi. Nullam enim leo, egestas id, condimentum at, laoreet mattis, massa. Sed eleifend nonummy diam.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="carousel_fade_2" class="span4 carousel slide carousel-fade">
+                            <div class="carousel-inner ">
+                                <div class="item  testimonial active">
+                                    <img src="images/avatar (5).jpg">
+                                    <h4>Fading Testimonials</h4>
+                                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam cursus. Morbi ut mi. Nullam enim leo, egestas id, condimentum at, laoreet mattis, massa. Sed eleifend nonummy diam.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="carousel_fade_2" class="span4 carousel slide carousel-fade">
+                            <div class="carousel-inner ">
+                                <div class="item  testimonial active">
+                                    <img src="images/avatar (6).jpg">
+                                    <h4>Fading Testimonials</h4>
+                                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam cursus. Morbi ut mi. Nullam enim leo, egestas id, condimentum at, laoreet mattis, massa. Sed eleifend nonummy diam.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!--################ CONTACT SECTION END ################-->
+            <!--################ BOTTOM SECTION START ################-->
+            <section id="bottom" class="paddingbot20">
+                <div class="row center">
+                    <h2>Partners</h2>
+                </div>
+                <div class="container">
+                    <div class="row center">
+                        <div class="as-seen">
+                            <div class="span2">
+                                <img src="images/client-1.png" alt="Tc">
+                            </div>
+                            <div class="span2">
+                                <img src="images/client-2.png" alt="Tc">
+                            </div>
+                            <div class="span2">
+                                <img src="images/client-3.png" alt="Tc">
+                            </div>
+                            <div class="span2">
+                                <img src="images/client-4.png" alt="Tc">
+                            </div>
+                            <div class="span2">
+                                <img src="images/client-5.png" alt="Tc">
+                            </div>
+                            <div class="span2">
+                                <img src="images/client-6.png" alt="Tc">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!--################ BOTTOM SECTION END ################-->
+        </div>
+        <!--################ PUSH WILL KEEP THE FOOTER AT BOTTOM IF YOU WANT TO CREATE OTHER PAGES ################-->
+        <div id="push"></div>
+        <!--################ FOOTER START ################-->
+        <footer id="footer">
+            <div class="container">
+                <div class="row">
+                    <div class="span6">
+                        <img src="images/logo.png" >
+                        <!--<p><br /Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam cursus. Morbi ut mi. Nullam enim leo, egestas id, condimentum at, laoreet mattis, massa. Sed eleifend nonummy diam.</p>-->
+                        <p><br />Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam cursus. Morbi ut mi. Nullam enim leo, egestas id, condimentum at, laoreet mattis, massa. Sed eleifend nonummy diam.</p>
+                        <p class="copyright">
+                            © 2021 Rich Arabs NFT
+                        </p>
+                    </div>
+                    <div class="span6">
+                        <h2>Join US</h2>
+                        <a href="#" class="social-network sn2 twitter"></a>
+                        <a href="#" class="social-network sn2 flickr"></a>
+                        <a href="#" class="social-network sn2 dribbble"></a>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <!--################ FOOTER END ################-->
+        <!--################ JAVASCRIPTS ################-->
+        <!-- Placed at the end of the document so the pages load faster -->
+        <script src="js/jquery.js"></script>
+        <script src="js/modernizr.js"></script>
+        <script src="js/bootstrap.js"></script>
+        <script src="js/jquery.fitvids.js"></script>
+        <script src="js/jquery.easing.1.3.js"></script>
+        <script src="js/twitter.js"></script>
+        <script type="text/javascript" src="js/jquery.fancybox.pack.js"></script>
+        <script type="text/javascript" src="js/jquery.fancybox-thumbs0ff5.js?v=1.0.2"></script>
+        <script type="text/javascript" src="js/jquery.fancybox-mediae209.js?v=1.0.0"></script>
+        <script src="js/stellar.js"></script>
+        <script src="js/nicescroll.min.js"></script>
+        <script src="js/jquery.isotope.min.js"></script>
+        <script src="js/custom.js"></script>
+        <script src="js/custom-home.js"></script>
+        <script src="js/portfolio.js"></script>
+        <script src="js/jquery.flexslider.js"></script>
+        <script src="js/retina.js"></script>
+    <script>  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)  })(window,document,'script','../../../../../www.google-analytics.com/analytics.js','ga');  ga('create', 'UA-40566302-1', 'uexel.us');  ga('send', 'pageview');</script> 
+ </body>
+</html>
